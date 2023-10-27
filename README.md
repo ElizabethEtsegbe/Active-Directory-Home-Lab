@@ -36,8 +36,7 @@ cd Active-Directory-Home-Lab
 - Run the following Powershell script to create a new domain:
 - .\Create-NewDomain.ps1 -DomainName "yourdomain.com" -NetBiosName "YourDomain"
 - Replace "yourdomain.com" with your desired domain name and "YourDomain" with your NetBIOS name.
-
-Create Domain
+<p>Create Domain
 
 ## User Management
 - Create a new user
