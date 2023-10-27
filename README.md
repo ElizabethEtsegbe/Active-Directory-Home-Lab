@@ -1,13 +1,12 @@
 # Active Directory Home Lab Setup
 
-Welcome to the Active Directory Home Lab Setup repository. This lab will walk you through how I created an Active Directory lab environment on your labtop using oracle virtual machine and powershell for learning and testing.
+Welcome to the Active Directory Home Lab Setup repository. This lab will walk you through how I created an Active Directory lab environment on my labtop using oracle virtual machine and powershell to create users for learning and testing.
 
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Lab Setup](#lab-setup)
-4. [User Management]
-5. [Usage](#usage)
+4. [Usage](#usage)
 
 ## Introduction
 In this lab, I learnt how to set up a local Active Directory (AD) environment for educational purposes. Active Directory is a critical component of Windows network management.
